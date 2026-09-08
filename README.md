@@ -51,5 +51,5 @@ Here are some ideas to get you started:
 * **Dev:
 ## 🏆Badges & Certifications
 * **Hack the box:
- [shell scribe](href="https://academy.hackthebox.com/achievement/badge/b573e889-a396-11f1-82d1-bea50ffe6cb4)
+ [shell scribe](https://academy.hackthebox.com/achievement/badge/b573e889-a396-11f1-82d1-bea50ffe6cb4)
 * **Cisco:
