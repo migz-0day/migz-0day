@@ -44,7 +44,9 @@ Here are some ideas to get you started:
 ![Metasploit](https://img.shields.io/badge/Metasploit-212A31?style=flat-square&logo=metasploit&logoColor=white)
 ![Nikto](https://img.shields.io/badge/Nikto-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![SpiderFoot](https://img.shields.io/badge/SpiderFoot-1E1E1E?style=flat-square&logo=python&logoColor=white)
-![Medusa](https://img.shields.io/badge/Medusa-000000?style=flat-square&logo=gnu-bash&logoColor=white)-->
+![Medusa](https://img.shields.io/badge/Medusa-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)-->
 
 ## 🚀 Projects
 * **security:[URL-Guardian](https://github.com/migz-0day/url-guardian)
