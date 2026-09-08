@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2>skills</h2>
+<p>html,css, java script, postgreSQL ,bash script</p>
+<h2>learning</h2>
+<p></p>
+<h2>Badges</h2>
+<h4>Hack the box:</h4>
+<a href="https://academy.hackthebox.com/achievement/badge/b573e889-a396-11f1-82d1-bea50ffe6cb4">shell scribe<a/>
+<h4>Cisco:</h4>
