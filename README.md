@@ -56,8 +56,8 @@ Here are some ideas to get you started:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)-->
 
 ## 🚀 Projects
-* **security:[URL-Guardian](https://github.com/migz-0day/url-guardian)
-* **Dev:
+* **security: [URL-Guardian](https://github.com/migz-0day/url-guardian)
+* **Dev: [srypto](https://srypto-tau.vercel.app/)
 ## 🏆Badges & Certifications
 * **Hack the box:
  [shell scribe](https://academy.hackthebox.com/achievement/badge/b573e889-a396-11f1-82d1-bea50ffe6cb4)
