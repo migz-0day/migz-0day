@@ -73,4 +73,5 @@ counting of visitors to this page in this section started from September 26 2026
 -->
 ![](https://count.getloli.com/@migz-0day.github.readme?name=%40migz-0day.github.readme&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1)
 
+<!--![](https://count.getloli.com/@migz-0day.github.readme?name=migz-0day.github.readme&theme=random&padding=5&offset=0&align=top&scale=0.8&pixelated=1&darkmode=1&num=1&prefix=0)-->
 
