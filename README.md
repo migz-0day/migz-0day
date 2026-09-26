@@ -62,3 +62,7 @@ Here are some ideas to get you started:
 * **Hack the box:
  [shell scribe](https://academy.hackthebox.com/achievement/badge/b573e889-a396-11f1-82d1-bea50ffe6cb4)
 * **Cisco:
+
+## Github stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=migz-0day">
+
