@@ -64,5 +64,13 @@ Here are some ideas to get you started:
 * **Cisco:
 
 ## Github stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=migz-0day">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=migz-0day&theme=dark&border_radius=4.3" alt="GitHub Streak" /></a>
+
+### Profile Views
+counting of visitors to this page in this section started from September 26 2026
+<!--
+![](https://count.getloli.com/@migz-0day.github.readme?name=%40migz-0day.github.readme&theme=random&padding=7&offset=0&align=top&scale=0.8&pixelated=1&darkmode=1)
+-->
+![](https://count.getloli.com/@migz-0day.github.readme?name=%40migz-0day.github.readme&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1)
+
 
