@@ -57,8 +57,8 @@ Here are some ideas to get you started:
 
 ## 🚀 Projects
  **security**
-*  [URL-Guardian](https://github.com/migz-0day/url-guardian)-a url security check
-*  [hivenode](https://github.com/migz-0day/hivepot)-a low-interaction SSH honeypot.
+*  [URL-Guardian](https://github.com/migz-0day/url-guardian)-a url security check.
+*  [hivenode](https://github.com/migz-0day/hivenode)-a low-interaction SSH hivenode.
   
    **Dev**
 *  [srypto](https://srypto-tau.vercel.app/)-it uses an API from coingecko.It has 60 second delay.
