@@ -56,15 +56,22 @@ Here are some ideas to get you started:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)-->
 
 ## 🚀 Projects
-* **security: [URL-Guardian](https://github.com/migz-0day/url-guardian)
-* **Dev: [srypto](https://srypto-tau.vercel.app/)
+ **security**
+*  [URL-Guardian](https://github.com/migz-0day/url-guardian)-a url security checke
+*   [hivenode](https://github.com/migz-0day/hivepot)-a low-interaction SSH honeypot.
+ **Dev**
+*  [srypto](https://srypto-tau.vercel.app/)-it uses an API from coingecko.It has 60 second delay.
 ## 🏆Badges & Certifications
 * **Hack the box:
  [shell scribe](https://academy.hackthebox.com/achievement/badge/b573e889-a396-11f1-82d1-bea50ffe6cb4)
 * **Cisco:
 
 ## Github stats
+<p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=migz-0day&theme=dark&border_radius=4.3" alt="GitHub Streak" /></a>
+
+[![top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migz-0day&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 ### Profile Views
 counting of visitors to this page in this section started from September 26 2026
