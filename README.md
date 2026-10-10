@@ -58,10 +58,10 @@ Here are some ideas to get you started:
 ## 🚀 Projects
  **security**
 *  [URL-Guardian](https://github.com/migz-0day/url-guardian)-a url security check.
-*  [hivenode](https://github.com/migz-0day/hivenode)-a low-interaction SSH hivenode.
+*  [hivenode](https://github.com/migz-0day/hivenode)-a low-interaction SSH honeypot.
   
    **Dev**
-*  [srypto](https://srypto-tau.vercel.app/)-it uses an API from coingecko.It has 60 second delay.
+*  [srypto](https://srypto-tau.vercel.app/)-A crypto tracking tool utilizing the CoinGecko API with a 60-second delay.
 ## 🏆Badges & Certifications
 * **Hack the box:
  [shell scribe](https://academy.hackthebox.com/achievement/badge/b573e889-a396-11f1-82d1-bea50ffe6cb4)
