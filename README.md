@@ -36,13 +36,14 @@ Here are some ideas to get you started:
 ## Exploring
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SpiderFoot](https://img.shields.io/badge/SpiderFoot-1E1E1E?style=flat-square&logo=python&logoColor=white)
 
 ## 🧰 Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-<!--![github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+<!--![render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-04202C?style=flat-square&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
@@ -50,15 +51,14 @@ Here are some ideas to get you started:
 ![Gobuster](https://img.shields.io/badge/Gobuster-000000?style=flat-square&logo=go&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-212A31?style=flat-square&logo=metasploit&logoColor=white)
 ![Nikto](https://img.shields.io/badge/Nikto-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-![SpiderFoot](https://img.shields.io/badge/SpiderFoot-1E1E1E?style=flat-square&logo=python&logoColor=white)
 ![Medusa](https://img.shields.io/badge/Medusa-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)-->
 
 ## 🚀 Projects
  **security**
-*  [URL-Guardian](https://github.com/migz-0day/url-guardian)-a url security checke
-*   [hivenode](https://github.com/migz-0day/hivepot)-a low-interaction SSH honeypot.
+*  [URL-Guardian](https://github.com/migz-0day/url-guardian)-a url security check
+*  [hivenode](https://github.com/migz-0day/hivepot)-a low-interaction SSH honeypot.
   
    **Dev**
 *  [srypto](https://srypto-tau.vercel.app/)-it uses an API from coingecko.It has 60 second delay.
