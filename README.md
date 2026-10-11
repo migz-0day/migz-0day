@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 *  [hivenode](https://github.com/migz-0day/hivenode)-a low-interaction SSH honeypot.
   
    **Dev**
-*  [srypto](https://srypto-tau.vercel.app/)-A crypto tracking tool utilizing the CoinGecko API with a 60-second delay.
+*  [srypto](https://srypto-tau.vercel.app/)-A crypto tracking site utilizing the CoinGecko API with a 60-second delay.
 ## 🏆Badges & Certifications
 * **Hack the box:
  [shell scribe](https://academy.hackthebox.com/achievement/badge/b573e889-a396-11f1-82d1-bea50ffe6cb4)
