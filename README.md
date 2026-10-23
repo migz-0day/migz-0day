@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 <!--
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -35,8 +36,8 @@ Here are some ideas to get you started:
 ![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)-->
 ## Exploring
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SpiderFoot](https://img.shields.io/badge/SpiderFoot-1E1E1E?style=flat-square&logo=python&logoColor=white)
+![Medusa](https://img.shields.io/badge/Medusa-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ## 🧰 Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -51,7 +52,6 @@ Here are some ideas to get you started:
 ![Gobuster](https://img.shields.io/badge/Gobuster-000000?style=flat-square&logo=go&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-212A31?style=flat-square&logo=metasploit&logoColor=white)
 ![Nikto](https://img.shields.io/badge/Nikto-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-![Medusa](https://img.shields.io/badge/Medusa-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)-->
 
