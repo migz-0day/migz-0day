@@ -76,7 +76,7 @@ you can contribute to ![script_vault](https://github.com/migz-0day/script_vault)
 <p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=migz-0day&theme=dark&border_radius=4.3" alt="GitHub Streak" /></a>
 
-[![top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migz-0day&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migz-0day&include=ts&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ### Profile Views
