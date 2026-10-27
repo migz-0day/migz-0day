@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 *  [srypto](https://srypto-tau.vercel.app/)-A crypto tracking site utilizing CoinGecko API (with a 60-second delay).
 *  [Barze](https://barze.vercel.app/)-A site that you can search a song or an artist .The site uses Genius API.(still in development)   
 ## collaborate  
-you can contribute to ![script_vault](https://github.com/migz-0day/script_vault)-its a collection of automation script.You can contribute by adding a new automation script or fixing a bug,improving readability and performance,adding tests,bugs or suggesting new features or scripts.
+you can contribute to ![script_vault](https://github.com/migz-0day/script_vault) -it's a collection of automation script.You can contribute by adding a new automation script or fixing a bug,improving readability and performance,bugs or suggesting new features or scripts.
 
 ## 🏆Badges & Certifications
 * **Hack the box:
