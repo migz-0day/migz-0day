@@ -63,7 +63,7 @@ Here are some ideas to get you started:
   
    **Dev**
 *  [srypto](https://srypto-tau.vercel.app/)-A crypto tracking site utilizing CoinGecko API (with a 60-second delay).
-*  [Barze](https://barze.vercel.app/)-A music(artist,song) search site that uses genius API.   
+*  [Barze](https://barze.vercel.app/)-A song,an artist search site that uses genius API.   
 ## collaborate  
 you can contribute to ![script_vault](https://github.com/migz-0day/script_vault)-its a collection of automation script.You can contribute by adding a new automation script or fixing a bug,improving readability and performance,adding tests,bugs or suggesting new features or scripts.
 
