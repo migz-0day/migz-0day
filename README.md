@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 <!--
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -79,8 +79,11 @@ Here are some ideas to get you started:
 you can contribute to [script_vault](https://github.com/migz-0day/script_vault) -it's a collection of automation scripts.You can contribute by adding a new automation script,fixing a bug,improving readability and performance,suggesting new features or scripts.
 
 ## 🏆Badges & Certifications
-* **Hack the box:
- [shell scribe](https://academy.hackthebox.com/achievement/badge/b573e889-a396-11f1-82d1-bea50ffe6cb4)
+**Hack the box:
+||
+|:---|
+ |[shell scribe](https://academy.hackthebox.com/achievement/badge/b573e889-a396-11f1-82d1-bea50ffe6cb4)|
+ |[bug bounty]()|
 * **Cisco:
 
 ## Github stats
