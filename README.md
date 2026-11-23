@@ -69,12 +69,16 @@ Here are some ideas to get you started:
 
 ## 🚀 Projects
  **security**
-*  [URL-Guardian](https://github.com/migz-0day/url-guardian)-a url security analyzer.
-*  [hivenode](https://github.com/migz-0day/hivenode)-a low-interaction SSH honeypot.
+|||
+|:---|:---|
+|[URL-Guardian](https://github.com/migz-0day/url-guardian)|a url security analyzer.|
+| [hivenode](https://github.com/migz-0day/hivenode)|a low-interaction SSH honeypot.|
   
    **Dev**
-*  [srypto](https://srypto-tau.vercel.app/)-A crypto tracking site utilizing CoinGecko API (with a 60-second delay).
-*  [Barze](https://barze.vercel.app/)-A site that you can search a song or an artist .The site uses Genius API.(still in development)   
+|||
+|:---|:---|
+|[srypto](https://srypto-tau.vercel.app/)|A crypto tracking site utilizing CoinGecko API (with a 60-second delay).
+|[Barze](https://barze.vercel.app/)|A site that you can search a song or an artist .The site uses Genius API.(still in development)|  
 ## collaborate  
 you can contribute to [script_vault](https://github.com/migz-0day/script_vault) -it's a collection of automation scripts.You can contribute by adding a new automation script,fixing a bug,improving readability and performance,suggesting new features or scripts.
 
