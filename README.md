@@ -83,7 +83,7 @@ you can contribute to [script_vault](https://github.com/migz-0day/script_vault) 
 ||
 |:---|
  |[shell scribe](https://academy.hackthebox.com/achievement/badge/b573e889-a396-11f1-82d1-bea50ffe6cb4)|
- |[bug bounty](https://academy.hackthebox.com/achievement/badge/76cf4722-e6b2-11f1-8591-0affe7dfeb45)|
+ |[Hunt the bug](https://academy.hackthebox.com/achievement/badge/76cf4722-e6b2-11f1-8591-0affe7dfeb45)|
 * **Cisco:
 
 ## Github stats
